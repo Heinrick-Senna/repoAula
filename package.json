@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Heinrick-Senna/repoAula/issues"
   },
-  "homepage": "https://github.com/Heinrick-Senna/repoAula#readme"
+  "homepage": "https://github.com/Heinrick-Senna/repoAula#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
